@@ -1,2 +1,2 @@
 "# repo1" 
-subo a la rama 2
+ahora en la master
